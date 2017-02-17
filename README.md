@@ -21,10 +21,6 @@ CONTAINER ID        IMAGE               COMMAND              CREATED            
 in another terminal run the client
 
 > python client.py
-
-Server said: hello, world!
-
-connection lost
-
-Connection lost - goodbye!
-
+>> Server said: hello, world!
+>> connection lost
+>> Connection lost - goodbye!
