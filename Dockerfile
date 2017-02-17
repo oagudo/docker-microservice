@@ -7,6 +7,6 @@ WORKDIR /app
 RUN apt-get update
 RUN pip install twisted
 
-ADD main.py /app/main.py
+ADD server.py /app/server.py
 
-CMD ["python", "main.py"]
+CMD ["python", "server.py"]
