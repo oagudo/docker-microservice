@@ -19,6 +19,7 @@ CONTAINER ID        IMAGE               COMMAND              CREATED            
 5c1a0120a248        service             "python server.py"   2 minutes ago       Up 2 minutes        0.0.0.0:8000->8000/tcp   naughty_murdock
 
 in another terminal run the client
+
 > python client.py
 
 Server said: hello, world!
