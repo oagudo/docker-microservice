@@ -1,7 +1,5 @@
 # docker-microservice
 
-> cd docker-img
-
 build docker image
 
 > docker build -t service .
